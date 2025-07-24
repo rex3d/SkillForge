@@ -1,0 +1,23 @@
+SkillForge™ License v1.0 – Custom Proprietary License (United States Jurisdiction)
+
+Copyright (c) [2025] by Rex3D / SkillForge™
+Contact: rex3d.kontakt@gmail.com
+
+ALL RIGHTS RESERVED.
+
+This document and associated files (the “Work”) are made publicly visible for informational purposes only. The entire content, concept, plan, naming, and structure of the Work is protected under applicable copyright laws and doctrines including but not limited to the U.S. Copyright Act of 1976, Title 17 of the United States Code, and the doctrine of idea-expression dichotomy.
+
+You are **NOT authorized** to:
+- Copy, distribute, modify, sublicense, or create derivative works based on any part of this Work.
+- Use the ideas, structure, naming convention, or any inspiration derived from this Work for commercial or non-commercial use.
+- Publicly present or share any part of this Work without the explicit written permission of the Author (rex3d.kontakt@gmail.com).
+
+Unauthorized use or exploitation may constitute a **willful violation** of United States federal copyright law and may result in **civil or criminal penalties** under Title 17, U.S. Code § 506 and § 1201. In cases of attempted theft of concept, malicious imitation, or unauthorized exploitation, the Author retains the right to pursue **injunctive relief, statutory damages, and recovery of attorney fees**.
+
+This license does NOT grant you any freedoms. All rights not expressly granted remain strictly reserved.
+
+To request permissions, licensing, or collaboration, please contact the Author directly: rex3d.kontakt@gmail.com.
+
+This work is NOT open-source. This is NOT a public license. This is a **custom proprietary license under United States jurisdiction**. Access does NOT imply usage rights.
+
+Last updated: 24 July 2025

@@ -1,3 +1,15 @@
+> ⚠️ Ten projekt jest chroniony autorską licencją. Wszelkie prawa zastrzeżone. Nie używaj, nie kopiuj, nie publikuj bez pisemnej zgody. Szczegóły w pliku [LICENSE_PL.txt](./LICENSE_PL.txt).
+
+
+
+> ⚠️ This project is protected by a copyright license. All rights reserved. Do not use, copy, or publish without written permission. Details in the [LICENSE_EN.txt](./LICENSE_EN.txt) file.
+
+
+
+
+
+
+
 SkillForge™ – Twój AI Mentor do zdobywania umiejętności przyszłości
 
 SkillForge™ to przełomowa platforma edukacyjna oparta o AI, która zmienia sposób, w jaki uczysz się programowania, języków obcych i innych kluczowych kompetencji XXI wieku. To nie jest kolejny nudny kurs online — to osobisty mentor, który uczy, motywuje i dostosowuje się do Ciebie w czasie rzeczywistym, działając prosto na Discordzie, gdzie już i tak spędzasz czas.

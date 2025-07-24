@@ -1,0 +1,47 @@
+LICENCJA AUTORSKA – “SKILLFORGE™” by REX3D
+
+Wersja: 1.0  
+Data publikacji: [data wrzutu na GitHuba]  
+Autor: Rex3D (rex3d.contact@gmail.com)  
+
+I. PODSTAWA PRAWNA  
+Na mocy Ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz.U. 1994 nr 24 poz. 83 z późn. zm.), projekt pod nazwą „SkillForge™”, w całości oraz we wszystkich jego częściach, stanowi przedmiot ochrony prawnoautorskiej.
+
+Projekt zawiera m.in.:  
+– kod źródłowy, pliki konfiguracyjne, skrypty,  
+– dokumentację techniczną i użytkową,  
+– strukturę kursów, interfejsy użytkownika,  
+– koncepcję działania AI-mentora,  
+– nazwę, logo, grafikę oraz unikalne rozwiązania systemowe.
+
+II. ZASTRZEŻENIA AUTORSKIE  
+Autor projektu, Rex3D, niniejszym oświadcza, że:
+
+1. **Zachowuje pełne prawa autorskie osobiste i majątkowe** do wszystkich materiałów zawartych w projekcie „SkillForge™”.
+2. Żadna część projektu nie może być **kopiowana, przetwarzana, modyfikowana, udostępniana publicznie ani rozpowszechniana** bez **uprzedniej, wyraźnej zgody autora** w formie pisemnej (w tym mailowo).
+3. Projekt nie może być wykorzystywany **do celów komercyjnych**, zarobkowych ani promocyjnych (m.in. budowa startupu, aplikacji, produktów edukacyjnych, kursów online, itd.) bez pisemnej zgody autora.
+4. **Zabrania się klonowania, forku, dystrybucji kodu lub jego fragmentów** nawet w celach edukacyjnych, jeśli narusza to integralność projektu lub prowadzi do jego powielania.
+5. **Zabrania się używania nazwy “SkillForge™”** lub jej pochodnych w jakimkolwiek kontekście promocyjnym, handlowym lub technologicznym.
+
+III. DOPUSZCZALNY ZAKRES UŻYTKOWANIA  
+Wyłącznie dozwolone są działania w ramach **dozwolonego użytku osobistego** i **niekomercyjnego**, zgodnie z art. 23 w/w Ustawy. Oznacza to, że:
+
+– możesz **zapoznać się z projektem** w celach edukacyjnych,  
+– możesz **analizować kod i jego strukturę** na własny użytek,  
+– **nie możesz niczego używać publicznie, kopiować ani publikować bez zgody**.
+
+IV. ODPOWIEDZIALNOŚĆ I SANKCJE  
+W przypadku naruszenia postanowień niniejszej licencji, autor zastrzega sobie prawo do:
+
+1. Podjęcia **kroków prawnych** wobec podmiotu łamiącego zapisy,  
+2. Dochodzenia swoich praw na drodze cywilnej (roszczenia finansowe, usunięcie materiałów, zakaz działalności),  
+3. Zgłoszenia naruszenia do organów ścigania, z powołaniem się na art. 115 i art. 116 Ustawy o prawie autorskim, które przewidują odpowiedzialność karną (w tym grzywnę, ograniczenie wolności, a nawet karę pozbawienia wolności do lat 5).
+
+V. KONTAKT  
+Wszelkie pytania dotyczące projektu, chęć uzyskania zgody, licencji komercyjnej lub nawiązania współpracy należy kierować bezpośrednio do autora na adres: **rex3d.contact@gmail.com**
+
+---
+
+Projekt “SkillForge™” jest własnością Rex3D.  
+Wszelkie prawa zastrzeżone.  
+Bez mojej zgody nie możesz z tym zrobić kompletnie nic – a jak spróbujesz, to wiedz, że mam backupy, logi z GitHuba, timestampy, i nie zawaham się ich użyć.
